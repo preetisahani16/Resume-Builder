@@ -12,3 +12,4 @@ export const contactReducer = (state = initialState.contactDetails, action) => {
   }
   return state;
 };
+

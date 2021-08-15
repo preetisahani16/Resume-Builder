@@ -8,8 +8,6 @@ const { documentReducer } = require("./documentReducer");
 const { educationReducer } = require("./educationReducer");
 
 
-
-
 export const myReducer = combineReducers({
     auth : authReducer,
     contactDetails : contactReducer ,
