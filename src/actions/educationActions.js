@@ -2,7 +2,7 @@ export const updateEducation = (educationDetails)=>{
 
     return (dispatch, getState, { getFirebase, getFirestore }) => {
         // aasync taskss
-    
+  
         // firebase => update doc
         let db = getFirestore();
         // console.log(getState());

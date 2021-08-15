@@ -1,7 +1,5 @@
 import { initialState } from "../reducers/initialState";
 
-
-
 export const login = (userDetails)=>{
     return (dispatch , getState , {getFirebase , getFirestore}) =>{
         // async tasks
