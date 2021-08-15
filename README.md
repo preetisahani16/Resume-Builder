@@ -8,8 +8,6 @@
 - User can choose different templates
 - Able to download resume in pdf format
 
-<img src="https://user-images.githubusercontent.com/57831888/102904673-113f2200-4498-11eb-984e-35502275ccfc.png" width="600px">
-
 # 🚀 Technical Stack:
 
 ## Frontend:
